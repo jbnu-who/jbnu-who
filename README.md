@@ -1,2 +1,2 @@
 # jbnu-who
-main repository
+전북대학교 who 동아리입니다!
